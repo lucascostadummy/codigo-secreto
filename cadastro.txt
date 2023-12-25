@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Nome: Bruno José
 Endereço: SQNW 108, Noroeste, Brasília
 Telefone: 21 994195339
 Ponto de referência: Rua sem saída, próximo a uma área indígena.
+=======
+>>>>>>> parent of 0b0000f (Adicionar nome ao cadastro.txt)
