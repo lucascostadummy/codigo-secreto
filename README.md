@@ -37,8 +37,8 @@ Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusau
     <div style="float:left; padding:5px">
     <a href="http://www.browserstack.com/" target="_blank">
         <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/appmasters-io/image/upload/c_scale,w_100,h_100,q_70,f_auto/image_14_ebd0fcf61c_b4f6a7e742">
-        <img alt="BrowserStack logo" src="https://res.cloudinary.com/appmasters-io/image/upload/c_scale,w_100,h_100,q_70,f_auto/image_14_ebd0fcf61c_b4f6a7e742" height="50px" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/fotos-gratis/retrato-de-homem-branco-isolado_53876-40306.jpg?w=1060&t=st=1704046335~exp=1704046935~hmac=a1634ba2797eac9a18258ce4d3f406e77bbd97634fd3b2824c173aa222a0cb29">
+        <img alt="BrowserStack logo" src="https://img.freepik.com/fotos-gratis/retrato-de-homem-branco-isolado_53876-40306.jpg?w=1060&t=st=1704046335~exp=1704046935~hmac=a1634ba2797eac9a18258ce4d3f406e77bbd97634fd3b2824c173aa222a0cb29" height="50px" />
         </picture>
     </a>
   </div>
