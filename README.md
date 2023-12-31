@@ -24,18 +24,25 @@ Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusau
 
 ## Special thanks
 
+ <div style="overflow:auto;width:100%;padding: 5px" >
+
+  <div style="float:left;padding: 5px">
+    <a href="http://www.browserstack.com/" target="_blank">
         <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://lh5.googleusercontent.com/-6BrWHom5Xvw/T82BKAJL_UI/AAAAAAAAAY4/Geo2HVWjqdk/s800/rosto_indianpink.jpg">
         <img alt="BrowserStack logo" src="https://lh5.googleusercontent.com/-6BrWHom5Xvw/T82BKAJL_UI/AAAAAAAAAY4/Geo2HVWjqdk/s800/rosto_indianpink.jpg" height="50px" />
         </picture>
-
-
- 
+    </a>
+  </div>
+    <div style="float:left; padding:5px">
+    <a href="http://www.browserstack.com/" target="_blank">
         <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/fotos-gratis/retrato-de-homem-branco-isolado_53876-40306.jpg?w=1060&t=st=1704046335~exp=1704046935~hmac=a1634ba2797eac9a18258ce4d3f406e77bbd97634fd3b2824c173aa222a0cb29">
         <img alt="BrowserStack logo" src="https://img.freepik.com/fotos-gratis/retrato-de-homem-branco-isolado_53876-40306.jpg?w=1060&t=st=1704046335~exp=1704046935~hmac=a1634ba2797eac9a18258ce4d3f406e77bbd97634fd3b2824c173aa222a0cb29" height="50px" />
         </picture>
- 
+    </a>
+  </div>
+</div>
 
 
 <p align="left">
