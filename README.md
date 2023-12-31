@@ -29,8 +29,8 @@ Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusau
   <div style="float:left;padding: 5px">
     <a href="http://www.browserstack.com/" target="_blank">
         <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/appmasters-io/image/upload/c_scale,w_100,h_100,q_70,f_auto/isabela_dac9c6f2c7">
-        <img alt="BrowserStack logo" src="https://res.cloudinary.com/appmasters-io/image/upload/c_scale,w_100,h_100,q_70,f_auto/isabela_dac9c6f2c7" height="50px" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://lh5.googleusercontent.com/-6BrWHom5Xvw/T82BKAJL_UI/AAAAAAAAAY4/Geo2HVWjqdk/s800/rosto_indianpink.jpg">
+        <img alt="BrowserStack logo" src="https://lh5.googleusercontent.com/-6BrWHom5Xvw/T82BKAJL_UI/AAAAAAAAAY4/Geo2HVWjqdk/s800/rosto_indianpink.jpg" height="50px" />
         </picture>
     </a>
   </div>
