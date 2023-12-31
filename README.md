@@ -1,4 +1,4 @@
-# codigo-secreto
+# Codigo-secreto
 Código base do curso da Alura de Git e GitHub
 
 # Quando iniciou
